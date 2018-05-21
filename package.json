@@ -17,6 +17,7 @@
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
     "babel-register": "6.26.0",
-    "openzeppelin-solidity": "1.9.0"
+    "openzeppelin-solidity": "1.9.0",
+    "truffle": "4.1.8"
   }
 }
